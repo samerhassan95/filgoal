@@ -1,0 +1,198 @@
+body {
+  background-color: #c1c1c1;
+}
+.firstnav {
+  background-color: #181817;
+  height: 50px;
+  color: #5d6b75;
+  position: sticky;
+  top: 0%;
+  z-index: 1;
+}
+.firstnav a {
+  text-decoration: none;
+  color: #5d6b75;
+}
+.firstnav a:hover {
+  color: #f0a306;
+}
+.secnav {
+  background-color: #ffffff;
+  height: 50px;
+  position: relative;
+  position: sticky;
+  top: 50px;
+  z-index: 1;
+}
+.secnav img {
+  width: 5%;
+  height: 80%;
+  position: absolute;
+  top: 5px;
+  left: 48%;
+}
+.matches {
+  background-color: #323335;
+  height: 200px;
+}
+.day {
+  position: relative;
+  width: 52%;
+  left: 43%;
+  top: 6%;
+}
+.day div {
+  position: absolute;
+}
+.day a {
+  text-decoration-line: none;
+  width: 10%;
+}
+.day span {
+  width: 30%;
+  height: 50%;
+  color: #5d6b75;
+  /* border: 1px solid black; */
+  background-color: #181817;
+}
+.day span:hover {
+  color: #ffffff;
+}
+.live {
+  width: 80%;
+  height: 110px;
+  position: absolute;
+  background-color: #3d3f41;
+  top: 20%;
+  left: 10%;
+}
+.live div {
+  height: 100%;
+  width: 25%;
+  float: right;
+  /* border: 1px solid black; */
+}
+.live div:hover {
+  opacity: 0.85;
+}
+.latestnews {
+  width: 70%;
+  height: 400px;
+  position: relative;
+  left: 1%;
+}
+.kohler {
+  width: 20%;
+  height: 100%;
+  position: absolute;
+  right: 86px;
+}
+.kohler:hover {
+  opacity: 0.9;
+}
+.ahly {
+  width: 15%;
+  height: 100%;
+  position: absolute;
+  right: 707px;
+}
+.ahly:hover {
+  opacity: 0.9;
+}
+.barca {
+  width: 15%;
+  position: absolute;
+  right: 612px;
+  top: 200px;
+}
+.barca:hover {
+  opacity: 0.9;
+}
+.maalol {
+  position: absolute;
+  right: 1028px;
+  width: 15%;
+  height: 100%;
+}
+.maalol:hover {
+  opacity: 0.9;
+}
+.rabee3yassin {
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  right: 1026px;
+  top: 202px;
+}
+.rabee3yassin:hover {
+  opacity: 0.9;
+}
+.advertisement {
+  height: 300px;
+  position: relative;
+}
+.mcadvertisment img {
+  width: 80%;
+  height: 80%;
+  position: absolute;
+  top: 12%;
+  left: 10%;
+}
+.clubs {
+  width: 80%;
+  height: 120px;
+  position: relative;
+  background-color: white;
+  left: 10%;
+}
+.clubs div {
+  height: 100%;
+  position: absolute;
+  top: 27%;
+}
+.clubs a {
+  text-decoration: none;
+  text-align: center;
+}
+.clubs img {
+  width: 100%;
+  margin-top: -3%;
+  height: 102%;
+}
+.content {
+  position: relative;
+  width: 80%;
+  left: 10%;
+  height: 200vh;
+}
+.mercato {
+  width: 70%;
+  left: 16%;
+  top: 3%;
+}
+
+.footer {
+  position: relative;
+  background-color: #181817;
+  height: 70px;
+  color: #5d6b75;
+  width: 100%;
+  /* border: 2px solid black; */
+  /* bottom: 0; */
+  /* position: static; */
+}
+.footer a {
+  text-decoration-line: none;
+  color: #ffffff;
+}
+.footer a:hover {
+  color: #f0a306;
+}
+.footer span {
+  color: #f0a306;
+}
+.footer div {
+  position: absolute;
+  top: 30%;
+  left: 65%;
+}
